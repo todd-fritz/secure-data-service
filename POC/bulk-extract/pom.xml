@@ -12,7 +12,7 @@
 
     <properties>
         <sli.home>${project.basedir}</sli.home>
-        <spring.version>3.0.7.RELEASE</spring.version>
+        <spring.version>5.2.24.RELEASE</spring.version>
         <sli.conf>${project.basedir}/../../sli/config/properties/sli.properties</sli.conf>
         <sli.encryption.keyStore>${project.basedir}/../../sli/data-access/dal/keyStore/ciKeyStore.jks</sli.encryption.keyStore>
     </properties>
