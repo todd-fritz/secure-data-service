@@ -13,7 +13,7 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		
 		
-		<spring.version>3.1.1.RELEASE</spring.version>
+		<spring.version>5.2.24.RELEASE</spring.version>
 		<spring.data.mongo.version>1.0.1.RELEASE</spring.data.mongo.version>
 		<commons.lang.version>3.0.1</commons.lang.version>
 		<maven.assembly.version>2.2-beta-5</maven.assembly.version>
